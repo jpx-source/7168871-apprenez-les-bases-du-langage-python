@@ -1,1 +1,2 @@
-## Écrivez votre code ici !
+print("Hello My Lors")
+print(17+35*2)
